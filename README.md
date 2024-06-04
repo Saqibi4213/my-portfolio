@@ -29,7 +29,7 @@ Ensure you have the following software installed on your machine
 ```
 
 ```bash
-# You can also include multiple steps to guide users through the installation process.
+#git@github.com:Saqibi4213/my-portfolio.git
 ```
 
 ## Usage 🎯
