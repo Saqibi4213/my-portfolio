@@ -15,7 +15,6 @@ Include a demo or animated GIF of your project. You can use tools like [asciinem
 ![Demo](./img/Untitled_%20Jun%2004,2024%2006_37%20AM.webm)
 ## Technologies Used 🛠️
 
-
 - HTML
 - CSS
 ## Installation 💻
@@ -37,7 +36,7 @@ you can access to my project through git clone
 -git clone the HTTP or My SSH code link from the repository you wat to clone 
 
 ``` 
-# git clone
+#git clone
 ```
 
 ## Features ⭐
@@ -56,7 +55,7 @@ Certainly! Here's a list of features added to your professional portfolio:
 5. *Projects Gallery*: A visually appealing grid layout showcasing your projects with images and titles. Each project link opens in a new tab.
 <br />
 6. *Project Descriptions*: Each project is presented with an image and a brief description, giving visitors an overview of your work and skills.
-
+7. * added live link of my other projects to this project .
 
 ## Author 👩‍💻
 
@@ -65,6 +64,8 @@ Mehria Saqibi
  Email: mosawermh@gmail.com
  <br>
  LinkedIn: [Mheria saqibi] https://www.linkedin.com/in/mheria-saqibi-a386a41a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+ <br>
+ Website :
 
 ## Contributing 🤝
 
@@ -86,4 +87,3 @@ git commit -m "Description of the changes"
 7: Submit a Pull Request: Go to the original repository and submit a pull request from your forked repository. Provide a clear and concise description of your changes and why they should be merged..
 
 ## License 📜
-
