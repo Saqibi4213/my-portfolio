@@ -12,7 +12,7 @@ Include a demo or animated GIF of your project. You can use tools like [asciinem
 ![Demo](./img/mehr2.png)
 ![Demo](./img/mehr3.png)
 ![Demo](./img/mehr4.png)
-![Demo](./img/Untitled_%20Jun%2004,2024%2006_37%20AM.webm)
+
 ## Technologies Used 🛠️
 
 - HTML
