@@ -386,13 +386,20 @@ span {
 
 @media (max-width: 1200px) {
   html {
-    font-size: 55%;
+    font-size: 50%;
+  }
+
+  .header__link,
+  .header__btn {
+    font-size: 0.8rem;
   }
 }
 
 @media (max-width: 991px) {
   .header {
-    padding: 2rem 3%;
+    padding: 1rem 3%;
+    justify-content: space-between;
+    align-items: center;
   }
 
   section {
@@ -452,7 +459,7 @@ span {
   }
 
   .home-img img {
-    width: 70vw;
+    width: 60vw;
     margin-top: 4rem;
   }
 
